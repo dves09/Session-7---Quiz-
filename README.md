@@ -9,12 +9,12 @@ Example of the program:
 
 2. Info and actions of class mahasiswa
 
-![image]()
+![image](https://media.discordapp.net/attachments/1014209582488359013/1092822215919157298/image.png?width=588&height=313)
 
 3. Info and actions of class dosen
 
-![image]()
+![image](https://media.discordapp.net/attachments/1014209582488359013/1092822284345028628/image.png?width=664&height=397)
 
 4. Exit menu
 
-![image]()
+![image](https://media.discordapp.net/attachments/1014209582488359013/1092822333112205353/image.png?width=181&height=212)
